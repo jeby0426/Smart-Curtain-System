@@ -125,8 +125,9 @@
 ## 👨‍💻 개발자
 
 Kyungpook National University
-Department of Electronic Engineering
 
+이선희
+한상훈
 김재엽
 
 ```
